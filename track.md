@@ -1,11 +1,11 @@
 # Data Engineering Path
 
-## Total Hours Worked:        1 hours
-## Path to Become an Expert:  0.01%
+## Total Hours Worked:        2 hours
+## Path to Become an Expert:  0.02%
 
 ## Daily Work Track:
-  - June 14th 2024 Friday:    1 hours
-  - June 15th 2024 Saturday:  
+  - June 14th 2024 Friday:    1 hour
+  - June 15th 2024 Saturday:  1 hour
 
 
 ## Daily Gym Track:
