@@ -17,3 +17,7 @@
   - June 16th 2024 Sunday:    Rest Day
   - June 17th 2024 Monday:    Triceps and Biceps + 20 minutes Cardio
   - June 18th 2024 Tuesday:   Shoulders, Traps, Legs and Abs + 30 minutes Cardio
+  - June 19th 2024 Wednesday: Rest Day
+  - June 20th 2024 Thursday:  Rest Day
+  - June 21st 2024 Friday:    Chest and Back + 30 minutes Cardio
+  - June 22nd 2024 Saturday:  Triceps and Biceps + 30 minutes Cardio
